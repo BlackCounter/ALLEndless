@@ -4,11 +4,15 @@ alternative cloud endless lambda for amazon lambda
 
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** Architecture ALLEndless.
+*** What is "AllEndless" Mod:
+*** Changed Victory Conditions - For Shogun 2 - ALL "Domination" Campaigns! (Sengoku Jidai, RotS and FotS)
+*** As long as no future patch adds new factions or changes the victory conditions for Shogun 2 
+*** it wont need updating.
+*** Lambda is easy to use and manage; the execution environment has a specific runtime on a known environment and you can just send code to it and it runs. Nice! *** This has served us well over the years. The biggest problem with that status quo, however, is when you want to achieve a use case outside these predetermined *** environments. Perhaps you want to perform some form of processing using a library that is not included by default into the lambda environment? Or even use 
+*** your own runtime that is not provided?
+*** ALLEndless tried to help solve some of these issues with the introduction of Lambda layers which was useful but still quite limited. 
+*** Lambda by default is great for pick up and run with little to no maintenance, flexibility was sacrificed to achieve that simplicity.
 -->
 
 
@@ -33,23 +37,23 @@ alternative cloud endless lambda for amazon lambda
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/BlackCounter/ALLEndless">
+    <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ALLEndless</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BlackCounter/ALLEndless"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/BlackCounter/ALLEndless">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/BlackCounter/ALLEndless/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/BlackCounter/ALLEndless/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,14 +90,18 @@ alternative cloud endless lambda for amazon lambda
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://ALLEndless.github.io)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+change future of serverless by sentisize of lambda ,when you start coding new program in any languages they offer you lambda expersion for light
+function do more things in short line code.
+now we create new functionality to serverless , lambda in serverless is function as service by infrastructure such as retional databases like mysql or postgresql 
+aws lambda using dynamodb for infrastructure ,we change in concept of lambda by adding programming language functionality lambda ,to serverless concept. 
+you can up and launch this product in your could.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Your cloud can more up/time
+* Your code can be product without any coding language only text,tell our cloud, what you want in english.
+* You can implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -178,7 +186,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/BlackCounter/ALLEndless/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,7 +213,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -214,7 +222,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/saeedbahmanabadi) - bahmanabadi.s@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
@@ -243,15 +251,15 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/BlackCounter/ALLEndless/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/BlackCounter/ALLEndless/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/BlackCounter/ALLEndless/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/BlackCounter/ALLEndless/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/BlackCounter/ALLEndless/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/saeedbahmanabadi
 [product-screenshot]: images/screenshot.png
