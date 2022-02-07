@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/BlackCounter/ALLEndless">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="images/logo.svg" alt="Logo" width="3938" height="2475">
   </a>
 
   <h3 align="center">ALLEndless</h3>
